@@ -1,0 +1,21 @@
+0 verbose cli F:\node.exe F:\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.19.0
+2 info using node@v24.21.0
+3 silly config load:file:F:\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Feruzjon\Desktop\test\shifoxona\frontend\.npmrc
+5 silly config load:file:C:\Users\Feruzjon\.npmrc
+6 silly config load:file:C:\Users\Feruzjon\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--package-lock-only" "--offline" "--ignore-scripts"
+9 verbose logfile logs-max:10 dir:C:\Users\Feruzjon\Desktop\test\.tools\npm-cache\_logs\2026-10-07T07_36_32_269Z-
+10 verbose logfile C:\Users\Feruzjon\Desktop\test\.tools\npm-cache\_logs\2026-10-07T07_36_32_269Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly audit report null
+15 verbose cwd C:\Users\Feruzjon\Desktop\test\shifoxona\frontend
+16 verbose os Windows_NT 10.0.26300
+17 verbose node v24.21.0
+18 verbose npm  v11.19.0
+19 verbose exit 0
+20 info ok

@@ -1,0 +1,79 @@
+<script setup>
+import {
+  Activity,
+  ArrowLeft,
+  ArrowRight,
+  Building2,
+  CalendarDays,
+  Check,
+  ChevronDown,
+  ChevronLeft,
+  ChevronRight,
+  ClipboardList,
+  Clock3,
+  Eye,
+  HeartPulse,
+  LayoutDashboard,
+  LogOut,
+  Mail,
+  MapPin,
+  Menu,
+  Pencil,
+  Plus,
+  Search,
+  ShieldCheck,
+  Stethoscope,
+  Trash2,
+  Users,
+  X,
+  AlertCircle,
+  CheckCircle2,
+  LoaderCircle,
+  FileText,
+  Phone,
+  LockKeyhole,
+} from 'lucide-vue-next';
+defineProps({ name: String, size: { type: Number, default: 20 } });
+const icons = {
+  Activity,
+  ArrowLeft,
+  ArrowRight,
+  Building2,
+  CalendarDays,
+  Check,
+  ChevronDown,
+  ChevronLeft,
+  ChevronRight,
+  ClipboardList,
+  Clock3,
+  Eye,
+  HeartPulse,
+  LayoutDashboard,
+  LogOut,
+  Mail,
+  MapPin,
+  Menu,
+  Pencil,
+  Plus,
+  Search,
+  ShieldCheck,
+  Stethoscope,
+  Trash2,
+  Users,
+  X,
+  AlertCircle,
+  CheckCircle2,
+  LoaderCircle,
+  FileText,
+  Phone,
+  LockKeyhole,
+};
+</script>
+<template>
+  <component
+    :is="icons[name] || icons.Activity"
+    :size="size"
+    :stroke-width="1.8"
+    aria-hidden="true"
+  />
+</template>

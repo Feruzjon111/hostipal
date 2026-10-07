@@ -1,0 +1,22 @@
+0 verbose cli F:\node.exe F:\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.19.0
+2 info using node@v24.21.0
+3 silly config load:file:F:\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Feruzjon\Desktop\test\shifoxona\frontend\.npmrc
+5 silly config load:file:C:\Users\Feruzjon\.npmrc
+6 silly config load:file:C:\Users\Feruzjon\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec prettier --write src
+8 verbose argv "exec" "--offline" "--yes" "--package" "prettier" "--" "prettier" "--write" "src"
+9 verbose logfile logs-max:10 dir:C:\Users\Feruzjon\Desktop\test\.tools\npm-cache\_logs\2026-10-07T08_25_18_899Z-
+10 verbose logfile C:\Users\Feruzjon\Desktop\test\.tools\npm-cache\_logs\2026-10-07T08_25_18_899Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 verbose shrinkwrap failed to load node_modules/.package-lock.json missing from lockfile: node_modules/laravel-vite-plugin
+14 http fetch GET 200 https://registry.npmjs.org/prettier 13ms (cache stale)
+15 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+16 verbose cwd C:\Users\Feruzjon\Desktop\test\shifoxona\frontend
+17 verbose os Windows_NT 10.0.26300
+18 verbose node v24.21.0
+19 verbose npm  v11.19.0
+20 verbose exit 0
+21 info ok
