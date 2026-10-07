@@ -1,0 +1,14 @@
+/.tools/
+/shifoxona/backend/vendor/
+/shifoxona/backend/.env
+/shifoxona/backend/.env.backup
+/shifoxona/backend/.env.production
+/shifoxona/backend/auth.json
+/shifoxona/backend/database/*.sqlite*
+/shifoxona/backend/storage/logs/*.log
+/shifoxona/backend/.phpunit.cache/
+/shifoxona/frontend/node_modules/
+/shifoxona/frontend/.env
+/shifoxona/frontend/.env.local
+/shifoxona/frontend/test-results/
+/shifoxona/frontend/playwright-report/
